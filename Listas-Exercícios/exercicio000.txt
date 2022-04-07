@@ -1,0 +1,23 @@
+1) O que é algoritmo?
+Um algoritmo é uma sequência lógica, finita e definida de instruções que devem ser seguidas para resolver um problema ou executar uma tarefa.
+
+2) O que é uma variável?
+Uma variável é um espaço na memória do computador destinado a um dado que é alterado durante a execução do algoritmo.
+
+3) Qual a diferença entre os tipos inteiro e real?
+inteiro: define variáveis numéricas do tipo inteiro, ou seja, sem casas decimais.
+real: define variáveis numéricas do tipo real, ou seja, com casas decimais.
+
+
+4) O que uma variável do tipo cadeia pode armazenar?
+ Pode armazenar ma sequência de caracteres entre aspas.
+
+
+5) Como é possível solicitar um dado ao usuário?
+Através do escreva("")
+
+6) O que significa Declaração de Variáveis?
+Representam uma forma de identificar por um nome simbólico uma região da memória que armazena um valor sendo utilizado por uma função.
+
+7) Faça um programa no Portugol que leia 3 números e em seguida informe ao usuário quais são esses números informados do último para o primeiro.
+Esta no exercicio001 feito no portugol
